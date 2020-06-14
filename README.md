@@ -1,2 +1,2 @@
-# pash_portfolio
+# Pash_portfolio
 Pashas Data Science Portfolio
