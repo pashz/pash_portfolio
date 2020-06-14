@@ -1,2 +1,2 @@
 # Pash_Portfolio
-Pashas Data Science Portfolio
+Example Data Science Portfolio
