@@ -1,2 +1,2 @@
-# Pashas_Portfolio
+# My Portfolio
 Example Data Science Portfolio
