@@ -1,2 +1,2 @@
 # My Portfolio
-Example Data Science Portfolio
+Example DS Portfolio
