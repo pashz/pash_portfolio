@@ -1,2 +1,2 @@
 # My Portfolio
-Example DS Portfolio
+DS Portfolio
